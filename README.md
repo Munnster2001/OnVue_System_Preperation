@@ -21,7 +21,7 @@ This PowerShell script prepares a Windows system for Pearson VUE OnVUE online pr
 
 ## Usage
 1. Download the script (`OnVUE_System_Preparation.ps1`).
-2. Right-click the script and select "Run with PowerShell as Administrator."
+2. Run your favourite script program in administrator mode, eg. powershell ise, visualstudio etc.
 3. Choose an option from the menu (1-7):
    - 1: Close interfering processes
    - 2: Stop interfering services
